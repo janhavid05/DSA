@@ -25,7 +25,7 @@ public:
         while(n>1)
         {
             count=count+(n&1);   //n%2!=0
-            n=n>>1;        //n/2
+            n=n>>1;             //n/2
         }
         if(n==1)
         {
