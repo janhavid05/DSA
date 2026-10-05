@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/janhavid05/DSA/tree/master/0078-subsets) |
+## Math
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/janhavid05/DSA/tree/master/0326-power-of-three) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/janhavid05/DSA/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
