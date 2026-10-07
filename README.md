@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/janhavid05/DSA/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/janhavid05/DSA/tree/master/0136-single-number) |
 | [0191-number-of-1-bits](https://github.com/janhavid05/DSA/tree/master/0191-number-of-1-bits) |
 | [0260-single-number-iii](https://github.com/janhavid05/DSA/tree/master/0260-single-number-iii) |
 | [0342-power-of-four](https://github.com/janhavid05/DSA/tree/master/0342-power-of-four) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/janhavid05/DSA/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/janhavid05/DSA/tree/master/0136-single-number) |
 | [0260-single-number-iii](https://github.com/janhavid05/DSA/tree/master/0260-single-number-iii) |
 ## Backtracking
 |  |
