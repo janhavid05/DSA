@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/janhavid05/DSA/tree/master/0001-two-sum) |
 | [0078-subsets](https://github.com/janhavid05/DSA/tree/master/0078-subsets) |
+| [0128-longest-consecutive-sequence](https://github.com/janhavid05/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/janhavid05/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/janhavid05/DSA/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/janhavid05/DSA/tree/master/0260-single-number-iii) |
@@ -41,4 +42,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/janhavid05/DSA/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/janhavid05/DSA/tree/master/0128-longest-consecutive-sequence) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/janhavid05/DSA/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
