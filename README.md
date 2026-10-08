@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/janhavid05/DSA/tree/master/0001-two-sum) |
 | [0078-subsets](https://github.com/janhavid05/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/janhavid05/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/janhavid05/DSA/tree/master/0137-single-number-ii) |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/janhavid05/DSA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/janhavid05/DSA/tree/master/0342-power-of-four) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/janhavid05/DSA/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
